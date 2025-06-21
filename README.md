@@ -28,7 +28,7 @@ This application was made for my development as a programmer! It is an interacti
 - [] Autorização de Acesso às operações
 - [] Criação de usuario
 
-# Regra de negocios
+## Regra de negocios
 -O usuario deve logar com CPF e senha
 -Somente admins podem criar e dar permissões 
 -Todos os dados devem ser armazenado de forma segura e protegidos contra acesso não autorizado
