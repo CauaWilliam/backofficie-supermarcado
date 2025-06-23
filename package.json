@@ -1,0 +1,32 @@
+{
+  "name": "backofficie-supermarcado",
+  "version": "1.0.0",
+  "description": "programa para auxiliar na administração e gestão de um supermercado",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "22.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CauaWilliam/backofficie-supermarcado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CauaWilliam/backofficie-supermarcado/issues"
+  },
+  "homepage": "https://github.com/CauaWilliam/backofficie-supermarcado#readme",
+  "dependencies": {
+    "@prisma/client": "6.10.1",
+    "fastify": "^5.4.0",
+    "prisma": "^6.10.1",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
